@@ -231,12 +231,15 @@ app.post('/webhook', (req, res) => {
   }
 });
 // Deployment: Serve frontend static files
-const frontendPath = path.join(__dirname, '../frontend/dist');
-if (fs.existsSync(frontendPath)) {
-  app.use(express.static(frontendPath));
+const frontendDistPath = path.join(__dirname, '..', 'frontend', 'dist');
+if (fs.existsSync(frontendDistPath)) {
+  console.log('Serving frontend from:', frontendDistPath);
+  app.use(express.static(frontendDistPath));
   app.get('*', (req, res) => {
-    res.sendFile(path.join(frontendPath, 'index.html'));
+    res.sendFile(path.join(frontendDistPath, 'index.html'));
   });
+} else {
+  console.log('Frontend dist folder not found at:', frontendDistPath);
 }
 
 server.listen(PORT, () => {
