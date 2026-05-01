@@ -1,0 +1,22 @@
+2026/05/01-10:51:54.848 961c Reusing MANIFEST D:\Website\YT tool\WP Tool\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/01-10:51:54.849 961c Recovering log #136
+2026/05/01-10:51:54.871 961c Reusing old log D:\Website\YT tool\WP Tool\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000136.log 
+2026/05/01-10:51:59.847 961c Level-0 table #146: started
+2026/05/01-10:52:00.002 961c Level-0 table #146: 1123608 bytes OK
+2026/05/01-10:52:00.090 961c Delete type=0 #136
+2026/05/01-10:52:04.565 4c68 Compacting 1@1 + 6@2 files
+2026/05/01-10:52:04.689 4c68 Generated table #147@1: 62469 keys, 2228130 bytes
+2026/05/01-10:52:04.784 4c68 Generated table #148@1: 3384 keys, 2159554 bytes
+2026/05/01-10:52:04.947 4c68 Generated table #149@1: 16434 keys, 2189733 bytes
+2026/05/01-10:52:05.054 4c68 Generated table #150@1: 26447 keys, 2166958 bytes
+2026/05/01-10:52:05.209 4c68 Generated table #151@1: 98935 keys, 2249491 bytes
+2026/05/01-10:52:05.297 4c68 Generated table #152@1: 35632 keys, 933259 bytes
+2026/05/01-10:52:05.297 4c68 Compacted 1@1 + 6@2 files => 11927125 bytes
+2026/05/01-10:52:05.328 4c68 compacted to: files[ 0 0 6 0 0 0 0 ]
+2026/05/01-10:52:05.333 4c68 Delete type=2 #138
+2026/05/01-10:52:05.334 4c68 Delete type=2 #139
+2026/05/01-10:52:05.334 4c68 Delete type=2 #140
+2026/05/01-10:52:05.335 4c68 Delete type=2 #141
+2026/05/01-10:52:05.336 4c68 Delete type=2 #142
+2026/05/01-10:52:05.336 4c68 Delete type=2 #143
+2026/05/01-10:52:05.336 4c68 Delete type=2 #146

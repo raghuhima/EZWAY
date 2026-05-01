@@ -1,0 +1,5 @@
+2026/04/30-20:15:17.715 1cf8 Creating DB D:\Website\YT tool\WP Tool\backend\.wwebjs_auth_test\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/04/30-20:15:17.955 1cf8 Reusing MANIFEST D:\Website\YT tool\WP Tool\backend\.wwebjs_auth_test\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/30-22:34:45.847 710c Level-0 table #5: started
+2026/04/30-22:34:46.416 710c Level-0 table #5: 1133393 bytes OK
+2026/04/30-22:34:46.651 710c Delete type=0 #3
